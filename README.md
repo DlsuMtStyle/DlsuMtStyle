@@ -5,7 +5,8 @@ Chung Yuan Christian University | Major in Information Management | Junior <br>
 ## 個人簡介
 日本語を勉強しています🐰 <br>
 できるかわからないけど、やってみるね！<br>
-[Personal Web はこちら](<https://dlsumtstyle.github.io/RinYu/>)
+[Personal Web はこちら](<https://dlsumtstyle.github.io/RinYu/>) <br>
+很久未更新，等我勤奮就會更了（
 
 
 <!--
