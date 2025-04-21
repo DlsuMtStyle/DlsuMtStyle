@@ -1,5 +1,5 @@
 ## Intro
-Chung Yuan Christian University | Major in Information Management | Junior
+Chung Yuan Christian University | Major in Information Management | Junior <br>
 中原大學 資訊管理學系 大學部三年級
 
 ## 個人簡介
