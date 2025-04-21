@@ -1,4 +1,11 @@
-## Hi there 👋
+## Intro
+Chung Yuan Christian University | Major in Information Management | Junior
+中原大學 資訊管理學系 大學部三年級
+---
+## 個人簡介
+日本語を勉強しています🐰
+できるかわからないけど、やってみるね！
+
 
 <!--
 **DlsuMtStyle/DlsuMtStyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
