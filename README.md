@@ -1,10 +1,9 @@
 ## Intro
 Chung Yuan Christian University | Major in Information Management | Junior <br>
-中原大學 資訊管理學系 大學部三年級
+中原大學 資訊管理學系 大學部四年級
 
 ## 個人簡介
-日本語を勉強しています🐰 <br>
-希望有朝一日能成為很棒的資訊人<br>
+🐰 <br>
 [Personal Web はこちら](<https://dlsumtstyle.github.io/RinYu/>) <br>
 很久未更新，等我勤奮就會更了（
 
