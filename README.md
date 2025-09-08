@@ -1,8 +1,7 @@
 ## Intro
 Chung Yuan Christian University, Department of Information Management
 
-[Personal Web はこちら](<https://dlsumtstyle.github.io/RinYu/>) <br>
-很久未更新，等我勤奮就會更了（
+[Personal Web](<https://dlsumtstyle.github.io/RinYu/>) <br>
 
 
 <!--
