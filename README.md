@@ -1,8 +1,8 @@
 ## Intro
-Chung Yuan Christian University, Department of Information Management
+Chung Yuan Christian University, Department of Information Management <br>
+[Personal Web here](<https://dlsumtstyle.github.io/RinYu/>) <br>
 
-[Personal Web](<https://dlsumtstyle.github.io/RinYu/>) <br>
-
+![DlsuMtStyle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DlsuMtStyle&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **DlsuMtStyle/DlsuMtStyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
