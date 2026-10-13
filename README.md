@@ -1,5 +1,5 @@
 ## Intro
-Chung Yuan Christian University, Department of Information Management <br>
+National Taiwan University of Science and Technology, Department of Information Management <br>
 [Personal Web here](<https://dlsumtstyle.github.io/RinYu/>) <br>
 
 <!--
